@@ -2,6 +2,8 @@
 
 Transform your JSON data into fully functional Mongoose schemas with ease. This tool automatically generates schema definitions from JSON objects, handling mixed data types, arrays, and nested structures effortlessly. Perfect for developers looking to streamline their MongoDB projects.
 
+Demo https://json2mongoose.netlify.app/
+
 ## Features
 
 - **Automatic Schema Generation**: Convert JSON objects directly into Mongoose schema definitions.
